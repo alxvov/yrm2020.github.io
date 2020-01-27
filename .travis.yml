@@ -9,8 +9,9 @@ deploy:
   provider: pages
   local_dir: ./public/
   token: $GH_TOKEN
+  target_branch: master # Required for user pages
   cleanup: false
   skip_cleanup: true
   edge: true
   on:
-    branch: master
+    branch: src

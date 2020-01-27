@@ -1,8 +1,8 @@
 {
-  "name": "reason-conf-us-2019",
-  "description": "Reason Conf US 2019 website powered by ReasonML & Gatsby",
+  "name": "yrm-conf-2020",
+  "description": "YRM 2020 website powered by ReasonML & Gatsby forked off the Reason Conf 2019 site",
   "version": "1.0.0",
-  "author": "Reason Conf US",
+  "author": "ETSF YRM Meeting 2020",
   "dependencies": {
     "@rehooks/window-size": "^1.0.2",
     "bulma": "^0.7.5",
@@ -46,7 +46,6 @@
   "license": "MIT",
   "main": "n/a",
   "scripts": {
-    "deploy": "gatsby build --prefix-paths && gh-pages -d public -r https://$GH_TOKEN@github.com/yrm2020/yrm2020.github.io.git",
     "re:build": "bsb -make-world -clean-world",
     "re:watch": "bsb -make-world -clean-world -w",
     "clean": "rimraf .cache public",

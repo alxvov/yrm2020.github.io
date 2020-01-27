@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[22],{160:function(n,t,u){"use strict";u.r(t),u.d(t,"ProductPageTemplate",function(){return e});u(0);var e=function(){return null};t.default=function(n){n.data;return null}}}]);
+//# sourceMappingURL=component---src-templates-product-page-js-386fecab4e3c94e94020.js.map

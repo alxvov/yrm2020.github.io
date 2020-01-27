@@ -2,27 +2,27 @@ var proxy = require("http-proxy-middleware")
 
 module.exports = {
   siteMetadata: {
-    title: "Reason Conf US 2019",
-    description: "A hands-on ReasonML conference for web developers & OCaml enthusiasts",
-    keywords: "ReasonML, OCaml, Javascript",
-    siteUrl: "https://www.reason-conf.us",
-    author: "ReasonConf",
-    twitter: "reasonconf",
-    city: "Chicago, IL",
-    date: "October 7-8, 2019",
-    ticketLink: "https://ti.to/chicagojs/reasonconf-us-2019",
-    cfpLink: "https://www.papercall.io/reason-conf-us-2019",
-    sponsorLink: "mailto:mike@chicagojs.org",
-    sponsorPdf:
-      "https://drive.google.com/file/d/1U8YVMnv-BeWlOOFs66lRsZKTQVlRfZb4/view?usp=sharing",
+    title: "ETSF YRM 2020",
+    description: "17th ETSF Young Researchers' Meeting 2020",
+    keywords: "Researchers, Magnetism, Spin, Computational",
+    siteUrl: "https://yrm2020.github.io",
+    author: "HaoZeke",
+    twitter: "rg0swami",
+    city: "Cagliari, IT",
+    date: "2020",
+    ticketLink: "https://yrm2020.github.io/#",
+    cfpLink: "https://www.papercall.io/yrm2020",
+    sponsorLink: "mailto:yrm2020organizers@gmail.com",
+    sponsorPdf: "",
     venue: {
-      name: "Venue SIX10",
-      address: "610 S. Michigan Ave",
-      city: "Chicago, IL",
-      zip: "60605",
-      directionsLink: "https://goo.gl/maps/QWbD6C7FErE3uLaZ6",
+      name: "University of Cagliari",
+      address: "Università 40",
+      city: "Cagliari",
+      zip: "09124",
+      directionsLink:
+        "https://www.google.com/maps/place/Universit%C3%A0+degli+Studi+di+Cagliari/@39.2173657,9.1127331,17z/data=!3m1!4b1!4m5!3m4!1s0x12e7340f2b72a6df:0x769e97fb7558ccc6!8m2!3d39.2173657!4d9.1149218",
       imageUrl:
-        "https://res.cloudinary.com/chicagojs/image/upload/c_fill,f_auto,g_center,h_350,w_730/v1561602141/2019-reason-conf-us/website/venue610.jpg"
+        "https://lh5.googleusercontent.com/p/AF1QipP552OyBqZgUFNqUnqtZincju5vUPObE3X1e00d=w408-h271-k-no"
     },
     workshop: {
       title: "Workshop",
@@ -55,7 +55,7 @@ module.exports = {
         "https://res.cloudinary.com/chicagojs/image/upload/c_fill,f_auto,g_center,h_350,w_730/v1561601074/2019-reason-conf-us/website/yuvraj-singh-4V07cUP8Sxc-unsplash.jpg"
     },
     visit: {
-      title: "Downtown Chicago"
+      title: "Cagliari, Sardinia"
     }
   },
   plugins: [

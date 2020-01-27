@@ -48,7 +48,7 @@
   "scripts": {
     "re:build": "bsb -make-world -clean-world",
     "re:watch": "bsb -make-world -clean-world -w",
-    "clean": "rimraf .cache public",
+    "clean": "rimraf .cache",
     "start:app": "npm run develop",
     "start:lambda": "netlify-lambda serve src/lambda",
     "start": "run-p start:**",

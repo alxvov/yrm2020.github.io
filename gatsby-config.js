@@ -93,7 +93,7 @@ module.exports = {
     {
       resolve: "gatsby-plugin-google-analytics",
       options: {
-        trackingId: "UA-145064669-1",
+        trackingId: "",
         allowLinker: true
       }
     },
@@ -131,11 +131,11 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: "Reason Conf 2019",
-        short_name: "ReasonConf",
+        name: "ETSF YRM 2020",
+        short_name: "YRM2020",
         start_url: "/",
         background_color: "#000",
-        theme_color: "#DD4B39",
+        theme_color: "#fcfb54",
         // Enables "Add to Homescreen" prompt and disables browser UI (including back button)
         // see https://developers.google.com/web/fundamentals/web-app-manifest/#display
         display: "standalone",

@@ -1,6 +1,5 @@
 {
   "main.js": "render-page.js",
   "main.js.map": "render-page.js.map",
-  "static/logo-horizontal-white.svg": "static/logo-horizontal-white-43700b0e782a88893f09502233bb0ed2.svg",
-  "static/logo.svg": "static/logo-103769842bfaf7a103f753f10b9a2d77.svg"
+  "static/logo-horizontal-white.svg": "static/logo-horizontal-white-43700b0e782a88893f09502233bb0ed2.svg"
 }

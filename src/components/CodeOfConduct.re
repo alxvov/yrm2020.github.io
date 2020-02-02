@@ -4,7 +4,9 @@ let make = () => {
   <PageContainer>
   <Section title="Code of Conduct">
   <StyledText fontSize="16px" fontWeight="normal">
-    "A primary goal of Reason Conf is to be inclusive to the largest number of contributors, with the most varied and diverse backgrounds possible."->React.string
+    "The Young Researchers’ Meeting (YRM) of the European Theoretical Spectroscopy Facility 
+    (ETSF) is an annual meeting of the first stage researchers (MSc and PhD students and postdoctoral researchers) who work on novel theoretical and computational approaches for
+    studying the electronic and optical properties of materials."->React.string
   </StyledText>
   <br />
   <br />
